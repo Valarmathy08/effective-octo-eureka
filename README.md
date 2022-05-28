@@ -5,4 +5,3 @@ hello
 
 ## part 1
 *second line*
-![GitHub Logo](images/logo.png)
