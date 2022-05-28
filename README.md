@@ -1,7 +1,7 @@
-# welcome to github
+# welcome to github :octocat:
 
 
 hello
 
-## part 1 ✨
+## part 1 ✨ 
 *second line*
